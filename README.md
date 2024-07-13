@@ -1,4 +1,5 @@
-# demo
-hello this is my first github repository
+# A simple Expense Tracker Application using HTML, CSS, JS
 
-made by chanyahs
+You can add, track, delete your daily expenses.
+
+made by yash chandak
